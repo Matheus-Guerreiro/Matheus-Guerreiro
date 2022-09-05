@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Matheus Guerreiro 
 
+- 📖 Estudando ReactJs
 - 🔭 Hoje trabalho com front-end
 - 📫 Contate-me no email: matheusglloureiro@gmail.com
 - 😄 Pronomes: ele/dele
